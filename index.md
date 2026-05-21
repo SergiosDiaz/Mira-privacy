@@ -30,7 +30,7 @@ Sí, todas las funciones del espejo funcionan sin conexión.
 
 ### Legal
 
-- [Política de privacidad](privacy)
+- [Política de privacidad](privacy.md)
 - [Términos de uso](terms)
 
 ---
