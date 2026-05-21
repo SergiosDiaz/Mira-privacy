@@ -10,7 +10,7 @@
 
 ¿Tienes una duda, sugerencia o has encontrado un error?
 
-Escríbenos a: **TU_EMAIL@gmail.com**
+Escríbenos a: **sergiodz.r@gmail.com**
 
 Te respondemos en menos de 48h.
 
@@ -41,7 +41,7 @@ Sí, todas las funciones del espejo funcionan sin conexión.
 
 Got a question, suggestion or found a bug?
 
-Write to us: **TU_EMAIL@gmail.com**
+Write to us: **sergiodz.r@gmail.com**
 
 We reply within 48 hours.
 
