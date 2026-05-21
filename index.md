@@ -31,7 +31,7 @@ Sí, todas las funciones del espejo funcionan sin conexión.
 ### Legal
 
 - [Política de privacidad](privacy.md)
-- [Términos de uso](terms)
+- [Términos de uso](terms.md)
 
 ---
 
@@ -61,8 +61,8 @@ Yes, all mirror features work without an internet connection.
 
 ### Legal
 
-- [Privacy Policy](privacy)
-- [Terms of Use](terms)
+- [Privacy Policy](privacy.md)
+- [Terms of Use](terms.md)
 
 ---
 
